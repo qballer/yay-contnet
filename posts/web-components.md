@@ -52,7 +52,7 @@ Web components allow you to develop a component encapsulated from the rest of th
 
 1. **Custom Element** — Javascript API which allows you to define a new kind of html tag, specific to your component collection.
 
-1. **HTML templates** — introducing the <template> and <slot> tags, which allow you to specify the layout of the template.
+1. **HTML templates** — introducing the `<template>` and `<slot>` tags, which allow you to specify the layout of the template.
 
 1. **Shadow DOM** — or as I call it, the “mini dom” which is specific to your component. Some kind of an isolated environment for your component DOM, separated from the rest of the document.
 
